@@ -1,0 +1,9 @@
+# .vscode, env #
+#############
+.vscode
+env
+
+# Python Cache #
+##############
+__pycache__
+ 
